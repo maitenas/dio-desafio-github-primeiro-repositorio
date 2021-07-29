@@ -1,0 +1,28 @@
+Alguns comandos do banco de dados SQL apresentado em aula
+
+select from * - para selecionar uma tabela
+
+update "tabela" values() - para atualiza algo na tabela
+insert "tabela" values() - para adicionar algo na tabela
+
+inner join - concatenar tabelas conforme o que eu quero
+left join
+right join
+on
+
+where - quando
+and - só é verdadeiro quando os dois são verdadeiros
+or - é verdade quando tem pelo menos um verdadeiro
+
+case
+when
+else
+end
+
+avg - tira a média
+count - conta a quantidade de linhas que existem para o select
+sum
+order by - ordenar por
+group by
+havin (precisa ser depois do group by)
+not in () - que não esteja
