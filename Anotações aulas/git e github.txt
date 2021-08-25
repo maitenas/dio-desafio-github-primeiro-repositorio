@@ -2,6 +2,7 @@ Principais comandos para usar no Git
 
 * usar git bash
 
+git clone - clona o repositorio no github
 git status - ve o status das atualizações
 git commit -m - comita as atualizações (colocar "" e  informar do que se trata o commit)
 git add . - adiciona as atualizações que foram feitos na pasta fora do programa do git
