@@ -2,6 +2,8 @@ Principais comandos para usar no Git
 
 * usar git bash
 
+git config --local user.name "Seu nome aqui" - adiciona seu nome no github
+git config --local user.email "seu@email.aqui" - adiciona o seu email do github
 git init - transforma a pasta em um repositorio do github
 git clone - clona o repositorio no github (faz uma nova pasta)
 git status - ve o status das atualizações
@@ -9,3 +11,5 @@ git add . - adiciona as atualizações que foram feitos na pasta fora do program
 git commit -m - comita as atualizações (colocar "" e  informar do que se trata o commit)
 git push origin main - envia todos os commits feitos localmente para a nuvem
 crtl + l - limpa a tela
+git log - trás informações sobre aquele repositório
+git log --oneline - trás todos os commites em uma única linha de forma bem resumida
